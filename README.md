@@ -21,6 +21,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api?username=alexredfdez&theme=dark&show_icons=true)
+
 <!--
 **alexredfdez/alexredfdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
