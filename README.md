@@ -2,7 +2,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexredfdez&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexredfdez&theme=dark&show_icons=true&hide_border=true&layout=compact)
 <hr>
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
