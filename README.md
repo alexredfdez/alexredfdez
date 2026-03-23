@@ -21,7 +21,10 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=alexredfdez&theme=dark&show_icons=true)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-this-badge&logo=javascript&logoColor=black)
+
 
 <!--
 **alexredfdez/alexredfdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
