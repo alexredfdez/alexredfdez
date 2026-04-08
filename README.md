@@ -1,7 +1,6 @@
 
-![GitHub all stats](https://github-readme-stats.vercel.app/api?username=alexredfdez&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexredfdez&show_icons=true&theme=radical)
 
-![GitHub Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexredfdez&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 <hr>
 
 ## Tech Stack
